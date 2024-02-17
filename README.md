@@ -10,4 +10,4 @@ Technologies Used:
 HTML
 CSS
 How to View:
-You can view the website by visiting link to your website here. Alternatively, you can clone this repository and open the index.html file in your web browser to view it locally.
+You can view the website by visiting link to your [website here](https://sandys1518.github.io/Portfolio-/). Alternatively, you can clone this repository and open the index.html file in your web browser to view it locally.
